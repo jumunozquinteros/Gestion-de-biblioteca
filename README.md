@@ -16,6 +16,15 @@ Este proyecto consiste en un script en Python que utiliza la API de GraphHopper 
 - Clave API de GraphHopper (gratuita desde [graphhopper.com](https://graphhopper.com))
 
 ## Ejecución del scrip
+Abre una terminal y clona el repositorio oficial ejecutando los siguientes comandos:
+
+https://github.com/
+git clone https://github.com/jumunozquinteros/Gestion-de-biblioteca.git
+cd gestion-de-biblioteca
+
+cd Gestion-de-biblioteca
+pip install requests
+python graphhopper_parse_json_4.py
 
 ## Autor
 
